@@ -24,12 +24,9 @@ author:
   avatar : "img/parque.png"
   bio    : "Vocabulario para la representación de datos sobre los parques y jardines."
   links:
-    - label: "Página web"
-      icon: "fas fa-fw fa-link"
-      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: ""
+      url: "https://github.com/opencitydata/vocab-medio-ambiente-parques-jardines"
 
 
 
