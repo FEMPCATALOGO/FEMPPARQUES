@@ -26,9 +26,9 @@ classes: wide
 &nbsp; &nbsp;
   
   
-|Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Medio ambiente  | Inexistente  |  *[Repositorio]( https://github.com/opencitydata/vocab-medio-ambiente-parques-jardines)*  | *[Issues](https://github.com/opencitydata/vocab-medio-ambiente-parques-jardines/issues)*  |  Información sobre los parques y jardines existentes en el municipio, su geolocalización, horarios de apertura y cierre, existencia de zonas para niños o mayores, existencia de zona para animales en libertad y cualquier otra infraestructura que contenga.   |    |    |     |     |       |
+|Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Medio ambiente  | Inexistente  |  *[Repositorio]( https://github.com/opencitydata/vocab-medio-ambiente-parques-jardines)*  | *[Issues](https://github.com/opencitydata/vocab-medio-ambiente-parques-jardines/issues)*  |  Información sobre los parques y jardines existentes en el municipio, su geolocalización, horarios de apertura y cierre, existencia de zonas para niños o mayores, existencia de zona para animales en libertad y cualquier otra infraestructura que contenga.   | 
 
   
 
